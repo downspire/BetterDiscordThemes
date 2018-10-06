@@ -8,8 +8,8 @@ Core
 ::-webkit-input-placeholder, 
 body, 
 button, select {
-    font-family: 'Fira Sans', sans-serif;
-    font-style: italic;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
 }
 #app-mount .member-3W1lQa .content-OzHfo4,
 .chat-3bRxxu .messages-3amgkR, .chat-3bRxxu form input,
